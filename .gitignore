@@ -1,0 +1,13 @@
+node_modules/
+target/
+.anchor/
+.vscode/
+test-ledger/
+
+solana-forks/
+
+*.json
+!package.json
+!tsconfig.json
+
+tests/
